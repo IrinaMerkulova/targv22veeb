@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opilased>
+    <opilane sugu="mees">
+        <nimi>Aleksandr Nurk</nimi>
+        <veebileht>https://aleksandrnurk22.thkit.ee/</veebileht>
+        <pilt>pall.png</pilt>
+    </opilane>
+    <opilane sugu="mees">
+        <nimi>Sevastjan Saaber</nimi>
+        <veebileht>https://sevastijansaaber22.thkit.ee/</veebileht>
+        <pilt>pall.png</pilt>
+    </opilane>
+    <opilane sugu="naine">
+        <nimi>Arina</nimi>
+        <veebileht>https://arinanikulina22.thkit.ee/</veebileht>
+        <pilt>pall.png</pilt>
+    </opilane>
+</opilased>
